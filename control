@@ -1,0 +1,11 @@
+Package: org.thebigboss.searchlight9
+Name: Searchlight for iOS 9
+Depends: mobilesubstrate, applist, org.thebigboss.anyspot9, org.thebigboss.listlauncher9
+Conflicts: com.mattcmultimedia.clearonopen
+Version: 1.0
+Architecture: iphoneos-arm
+Description: System search and applicaiton launcher
+Maintainer: twodayslate
+Author: twodayslate
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/searchlightpreferences.bundle/icon.png
